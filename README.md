@@ -1,31 +1,56 @@
 # Hi, I'm Alejandro
 
-> Building scalable software products with a focus on real-world impact.
+> Software & Computer Engineer · Chicago, IL  
+> Embedded firmware, internal web apps, and automation — from sensor signals to shipped software.
 
 ---
 
 ## ◼︎ PROFILE
 
 * **Discipline:** Software & Computer Engineering
-* **Focus:** SaaS platforms, AI integrations, system design
-* **Approach:** Build fast → validate → scale
+* **Strengths:** Embedded control logic, sensor integration, internal web applications
+* **Stack:** C/C++, Python, JavaScript, ESP32/Arduino, SQL
+* **Exploring:** AI-assisted development, workflow automation, LLM integration
 
 ---
 
-## ◼︎ CURRENT WORK
+## ◼︎ FEATURED WORK
 
-**Multi-tenant WhatsApp CRM**
-Designing a scalable platform architecture using a shared infrastructure model with tenant-based configuration.
+**Automated Fish Feeding System** — Embedded control for aquaculture; ~5% feed-waste reduction, hours of manual labor saved weekly  
+[Demo](https://alejoarte.github.io/fish-feeder-web-demo/) · AGINNO Institute
 
-**AI-driven systems**
-Exploring contextual AI assistants that integrate directly into products.
+**Automated House** — ESP32 home automation with sensor-driven lighting, garage access, and state-machine logic  
+[Code](https://github.com/alejoarte/Automated-House)
+
+**Portfolio** — Projects, experience, and resume  
+[alejoarte.github.io](https://alejoarte.github.io)
+
+---
+
+## ◼︎ BUILDING
+
+**Multi-tenant WhatsApp CRM** — Shared infrastructure with tenant-based configuration *(in progress)*
+
+**AI & automation experiments** — Workflow tools and hands-on LLM integration patterns
+
+---
+
+## ◼︎ OPEN TO
+
+Software & Computer Engineer roles — embedded, full-stack, IoT, and automation.
 
 ---
 
 ## ◼︎ CONTACT
 
+<a href="https://alejoarte.github.io" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-alejoarte.github.io-0ea5e9?style=flat-square" alt="Portfolio">
+</a>
 <a href="https://www.linkedin.com/in/alejandro-arteagar" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:aarteagarestrep@gmail.com">
+  <img src="https://img.shields.io/badge/Email-aarteagarestrep@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 ---
