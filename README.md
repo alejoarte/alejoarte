@@ -1,7 +1,7 @@
 # Hi, I'm Alejandro
 
 > Software & Computer Engineer · Chicago, IL  
-> Embedded firmware, internal web apps, and automation — from sensor signals to shipped software.
+> Embedded firmware, internal web apps, and automation.
 
 ---
 
