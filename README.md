@@ -43,16 +43,9 @@ Software & Computer Engineer roles — embedded, full-stack, IoT, and automation
 
 ## ◼︎ CONTACT
 
-<a href="https://alejoarte.github.io" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-alejoarte.github.io-0ea5e9?style=flat-square" alt="Portfolio">
-</a>
-<a href="https://www.linkedin.com/in/alejandro-arteagar" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:aarteagarestrep@gmail.com">
-  <img src="https://img.shields.io/badge/Email-aarteagarestrep@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</a>
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-alejoarte.github.io-111827?style=flat-square&logo=githubpages&logoColor=white)](https://alejoarte.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alejandro--arteagar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-arteagar)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aarteagarestrep@gmail.com)
 ---
 
 <picture>
