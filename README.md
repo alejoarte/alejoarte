@@ -29,8 +29,6 @@
 
 ## ◼︎ BUILDING
 
-**Multi-tenant WhatsApp CRM** — Shared infrastructure with tenant-based configuration *(in progress)*
-
 **AI & automation experiments** — Workflow tools and hands-on LLM integration patterns
 
 ---
