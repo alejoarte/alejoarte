@@ -35,6 +35,9 @@ Exploring contextual AI assistants that integrate directly into products.
 <a href="https://www.linkedin.com/in/alejandro-arteagar" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<a href="mailto:aarteagarestrep@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 </div>
 
