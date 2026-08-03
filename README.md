@@ -2,7 +2,8 @@
 
 # Hi, I'm Alejandro
 
-> Building scalable software products with a focus on real-world impact.
+> Software & Computer Engineer · Chicago, IL  
+> Embedded firmware, internal web apps, and automation.
 
 </div>
 
@@ -11,12 +12,13 @@
 ## ◼︎ PROFILE
 
 * **Discipline:** Software & Computer Engineering
-* **Focus:** SaaS platforms, AI integrations, system design
-* **Approach:** Build fast → validate → scale
+* **Strengths:** Embedded control logic, sensor integration, internal web applications
+* **Stack:** C/C++, Python, JavaScript, ESP32/Arduino, SQL
+* **Exploring:** AI-assisted development, workflow automation, LLM integration
 
 ---
 
-## ◼︎ CURRENT WORK
+## ◼︎ FEATURED WORK
 
 **Multi-tenant WhatsApp CRM**  
 Designing a scalable platform architecture using a shared infrastructure model with tenant-based configuration.
