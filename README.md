@@ -9,7 +9,7 @@
 
 ---
 
-## ◼︎ PROFILE
+## PROFILE
 
 * **Discipline:** Software & Computer Engineering
 * **Strengths:** Embedded control logic, sensor integration, internal web applications
@@ -18,7 +18,7 @@
 
 ---
 
-## ◼︎ FEATURED WORK
+## FEATURED WORK
 
 **Multi-tenant WhatsApp CRM**  
 Designing a scalable platform architecture using a shared infrastructure model with tenant-based configuration.
@@ -28,16 +28,11 @@ Exploring contextual AI assistants that integrate directly into products.
 
 ---
 
-## ◼︎ CONTACT
+## CONTACT
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/alejandro-arteagar" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:aarteagarestrep@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</a>
+<a href="https://www.linkedin.com/in/alejandro-arteagar" target="_blank" rel="noopener noreferrer" style="text-decoration: none"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:aarteagarestrep@gmail.com" style="text-decoration: none"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
