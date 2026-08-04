@@ -12,9 +12,9 @@
 ## PROFILE
 
 * **Discipline:** Software & Computer Engineering
-* **Strengths:** Embedded control logic, sensor integration, internal web applications
-* **Stack:** C/C++, Python, JavaScript, ESP32/Arduino, SQL
-* **Exploring:** AI-assisted development, workflow automation, LLM integration
+* **Focus:** Embedded systems, web apps, and infrastructure
+* **Stack:** C/C++, Python, JavaScript, Docker, SQL
+* **Exploring:** AI-assisted workflows, automation, LLM integration
 
 ---
 
